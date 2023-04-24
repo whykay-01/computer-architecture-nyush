@@ -6,11 +6,11 @@ This repository contains all the files for the Computer Architecture class at NY
 
 The repository contains the following files:
 
-- lecture notes
+- book used for the course
 - code examples
 - homework assignments
-- lab exercises
-- project files
+- practical exercises
+- solutions for all the assignments
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ You can then navigate to the cloned directory and access the files.
 
 ## Contributing
 
-Contributions to the repository are welcome. If you find any errors or would like to add more examples, please feel free to create a pull request.
+Contributions to the repository are not going to be reviewed. The repo is created solely for the purpose of sharing the information and course materials.
 
 ## License
 
@@ -29,5 +29,5 @@ The files in this repository are licensed under the MIT License. Please see the 
 
 ## Acknowledgments
 
-The content in this repository is based on the Computer Architecture course at NYU Shanghai, taught by <instructor-name>. Special thanks to the instructor for their contributions to this repository.
+The content in this repository is based on the Computer Architecture course at NYU Shanghai, taught by Paul Mellies. Special thanks to Paul for his extraordinary way of teaching this course. The original content is stored on professor's website designated for this course: computer-architecture.organization
 
