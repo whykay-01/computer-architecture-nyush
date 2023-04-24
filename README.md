@@ -29,5 +29,4 @@ The files in this repository are licensed under the MIT License. Please see the 
 
 ## Acknowledgments
 
-The content in this repository is based on the Computer Architecture course at NYU Shanghai, taught by Paul Mellies. Special thanks to Paul for his extraordinary way of teaching this course. The original content is stored on professor's website designated for this course: computer-architecture.organization
-
+The content in this repository is based on the Computer Architecture course at NYU Shanghai, taught by Paul Mellies. Special thanks to Paul for his extraordinary way of teaching this course. The original content is stored on professor's website designated for this course: computer-architecture.org
